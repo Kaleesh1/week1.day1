@@ -19,22 +19,3 @@ public class Fiobinacci {
 		}
 	}
 }
-
-
-/*else {
-	int n1=2;
-	
-	fib = fib + (i-n1);
-	n1++;
-	System.out.println(fib);
-} 
-			if (i == 0||i == 1) {
-				System.out.println(i);
-			} else {
-				int n1=1;
-				fib = fib+(i-n1);
-				System.out.println(fib);
-			}
-			}
-		 
-*/
